@@ -97,22 +97,22 @@ helm upgrade --install promtail grafana/promtail -f infrastructure/prometheus/lo
 In Grafana:
 Go to Datasource as follows:
 
-![alt text](image.png)
+![alt text](screens/image.png)
 
-![alt text](image-1.png)
+![alt text](screens/image-1.png)
 
 Then explore and make sure you have logs are coming out.
 
 Create your dashboard
 
-![alt text](image-2.png)
+![alt text](screens/image-2.png)
 
 Edit settings as shown in yellow boxes.
 
-![alt text](image-3.png)
+![alt text](screens/image-3.png)
 
 Create a variable as shown.
 
-![alt text](image-4.png)
+![alt text](screens/image-4.png)
 
 
